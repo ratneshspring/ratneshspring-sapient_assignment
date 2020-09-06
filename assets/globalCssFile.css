@@ -1,0 +1,34 @@
+.satelliteCardClass{
+    width:80%;
+    padding: 13px;
+    border-radius:10px;
+}
+.satelliteCardImageClass{
+    background: #e4e3e3;
+}
+.container-fluid{
+    margin-top:25px;
+}
+.card{
+    margin:5px auto;
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.filterCard{
+ width: 18rem;
+}
+.filterTitle{
+    padding:10px;
+}
+.lunchYear{
+    width:60%;
+    margin-top:-3px;
+}
+.filterRow{
+    padding-left:40px;
+}
+.filterButton{
+    margin:10px 30px;
+}
